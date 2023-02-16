@@ -54,10 +54,10 @@ td, th {
   transition: .4s;
 }
 input:checked + .slider {
-  background-color: #;
+  background-color: #556B2F;
 }
 input:focus + .slider {
-  box-shadow: 0 0 1px #00FF00;
+  box-shadow: 0 0 1px #33FF99;
 }
 input:checked + .slider:before {
   -webkit-transform: translateX(17px);
