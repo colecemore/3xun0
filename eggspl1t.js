@@ -49,7 +49,7 @@ td, th {
   width: 17px;
   left: 3px;
   bottom: 3px;
-  background-color: white;
+  background-color: green;
   -webkit-transition: .4s;
   transition: .4s;
 }
