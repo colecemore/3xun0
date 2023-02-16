@@ -12,7 +12,7 @@ if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webs
 
 document.head.innerHTML = `
 <style>
-tr:nth-child(even){background-color: #000000;}
+tr:nth-child(even){background-color: #696969;}
 tr:hover {background-color: #ddd;}
 td, th {
   border: 1px solid #ddd;
