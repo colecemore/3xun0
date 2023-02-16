@@ -49,15 +49,15 @@ td, th {
   width: 17px;
   left: 3px;
   bottom: 3px;
-  background-color: green;
+  background-color: white;
   -webkit-transition: .4s;
   transition: .4s;
 }
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #;
 }
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #00FF00;
 }
 input:checked + .slider:before {
   -webkit-transform: translateX(17px);
