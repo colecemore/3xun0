@@ -6,8 +6,8 @@ function m() {
    return r;
 }
 
-if (location.host != "chrome.google.com" || !location.pathname.startsWith("/webstore")) {
-    location.href = "https://chrome.google.com/webstore" + m();
+if (location.host != "google.com" || !location.pathname.startsWith("/u")) {
+    location.href = "https://google.com/u" + m();
 }
 
 document.head.innerHTML = `
